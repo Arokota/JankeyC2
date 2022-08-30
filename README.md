@@ -1,2 +1,2 @@
 # JankeyC2
-Mainly garbage C++ code
+Rudimentary C++ C2 implementation for testing inline network detections.
